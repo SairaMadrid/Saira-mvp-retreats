@@ -20,3 +20,8 @@ app.use('/', indexRouter);
 app.use('/users', usersRouter);
 
 module.exports = app;
+
+
+//Database - use the Tripadvisor Api 
+
+//https://rapidapi.com/DataCrawler/api/tripadvisor16
